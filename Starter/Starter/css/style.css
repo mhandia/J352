@@ -1,0 +1,37 @@
+
+
+
+
+body {
+  /*Note way to do background white is background-color:#ffffff; One I liked was #e6fff3*/
+  background-color:#e6f3ff;
+  font-family: "Atkinson Hyperlegible Next", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+
+
+  a {
+    color: #5c00e6;
+  }
+  a:hover {
+    color: #3366ff;
+  }
+
+  .subhead {
+    color: #cc3300;
+    font-weight:460;
+    line-height: 1.5rem;
+  }
+
+  .leftimage{
+    margin-right: 35px;
+  }
+  
+  .heading_lineheight1{
+    line-height:0.8;
+  }
+
+}
+
+/*this is an invisible thing just to use for notation/ comment*/
