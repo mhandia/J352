@@ -1,0 +1,25 @@
+<!doctype html>
+
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <title>This is me practicing for a quiz</title>
+  <meta name="description" content="This is the description that search engines will display. Aim for 145-155 characters.">
+  <meta name="author" content="Insert the content author or owner name here">
+
+  <!-- Link to your JS file -->
+  <script src="scripts/script.js"></script>
+
+  <!-- Link to your CSS file -->
+  <link rel="stylesheet" href="css/style.css">
+
+</head>
+
+
+<body>
+<h1>Practicing for <strong>Quiz 1</strong></h1>
+
+<p>Welcome to my practicing for my Quiz 1</p>
+
+<p>Check out this <a href="insert link" target="_blank">link</a></p>.
