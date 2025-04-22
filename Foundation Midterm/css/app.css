@@ -1,0 +1,18 @@
+.rtt {
+	text-align: center;
+	margin-top: 40px;
+}
+.rtt a {
+	color: #009cff;
+	text-decoration: none;
+	font-weight: bold;
+}
+.rtt a:hover {
+	color: #09639c;
+}
+
+.content {
+  max-width: 500px;
+  margin: auto;
+  padding: 10px;
+}
