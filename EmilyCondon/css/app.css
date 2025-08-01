@@ -1,0 +1,16 @@
+.rtt {
+	text-align: center;
+	margin-top: 20px;
+}
+.rtt a {
+	color: #009cff;
+	text-decoration: none;
+}
+.rtt a:hover {
+	color: #09639c;
+}
+
+.leftimage{
+  margin-right: 35px;
+  float: left;
+}
